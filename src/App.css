@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+body {
+  font-family: 'New Rocker', cursive;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.navbar-brand img {
+  width: 50px;
+}
