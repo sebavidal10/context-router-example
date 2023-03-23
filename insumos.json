@@ -1,0 +1,34 @@
+[
+  {
+    "desc": "La tinta de tatuaje es la base de cualquier gran tatuaje. Ofrecemos una amplia selección de tintas de alta calidad en una variedad de colores vibrantes y duraderos. Nuestras tintas están hechas con los mejores ingredientes y son seguras para la piel, lo que las convierte en la elección perfecta para cualquier artista del tatuaje",
+    "id": "T001",
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_652947-MLC53432529187_012023-V.jpg",
+    "types": ["negro", "rojo"],
+    "name": "tinta",
+    "price": 5950
+  },
+  {
+    "desc": "Las agujas RL son perfectas para líneas precisas y detalladas. Ofrecemos una amplia selección de agujas RL de alta calidad en diferentes tamaños y configuraciones para satisfacer todas tus necesidades de tatuaje. Todas nuestras agujas son esterilizadas y están listas para su uso inmediato.",
+    "id": "T002",
+    "imgUrl": "https://m.media-amazon.com/images/I/51Zk+-RxCBL._SL500_.jpg",
+    "types": [3, 5, 7],
+    "name": "aguja RL",
+    "price": 7250
+  },
+  {
+    "desc": "Las agujas MG son perfectas para sombreado y relleno. Ofrecemos una amplia selección de agujas MG de alta calidad en diferentes tamaños y configuraciones para satisfacer todas tus necesidades de tatuaje. Todas nuestras agujas son esterilizadas y están listas para su uso inmediato.",
+    "id": "T003",
+    "imgUrl": "https://www.cnctattoo.com/wp-content/uploads/Quelle%C2%AE-Waved-Magnum-Cartridge-Needle-M1.jpg",
+    "types": [7, 9, 11, 13],
+    "name": "aguja MG",
+    "price": 5990
+  },
+  {
+    "desc": "Los guantes de nitrilo son imprescindibles para cualquier artista del tatuaje. Ofrecemos una amplia selección de guantes de nitrilo de alta calidad en diferentes tamaños para asegurarnos de que encuentres el ajuste perfecto. Nuestros guantes de nitrilo son resistentes y duraderos, lo que los hace ideales para cualquier tarea de tatuaje.",
+    "id": "T004",
+    "imgUrl": "https://lennoxsupply.com/wp-content/uploads/2021/11/lennox_supply-ambiderm-LSAMNITN-01.jpg",
+    "types": ["s", "m", "l", "xl"],
+    "name": "guantes de nitrilo",
+    "price": 9590
+  }
+]
